@@ -1,0 +1,21 @@
+{
+  "name": "react-lazy-load-background-image",
+  "version": "1.0.1",
+  "description": "Simple light weight react hook to lazy load background image",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madanlimbu/react-lazy-load-background-image"
+  },
+  "author": "madanlimbu",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^18.0.37",
+    "react": "^18.2.0",
+    "typescript": "^5.0.4"
+  }
+}
